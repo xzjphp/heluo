@@ -1,0 +1,10 @@
+{
+    "name": "administrator/heluo",
+    "authors": [
+        {
+            "name": "xzjphp",
+            "email": "45658269@qq.com"
+        }
+    ],
+    "require": {}
+}
